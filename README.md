@@ -1,5 +1,6 @@
 # plot_vec_VESTA
-A function written in python3 to plot vectors (displacement or magnetic moment) in VESTA
+A function written in python3 to plot vectors (displacement or magnetic moment) in VESTA  
+Used some regex from https://github.com/lucydot/vesta_vectors
 
 ## Usage  
 plot_vec(vesta_file, vec_file,  
