@@ -31,7 +31,8 @@ plot_vec(vesta_file, vec_file,
 **vec_type: string, optional**  
   Type of vectors, can be "Cart" (Cartesian), "Lat" (Lattice vector notation [u v w], in reduced coord), or "Modulus" (Modulus along crystallographic axis). Default is 'Cart'.    
 **lat: array-like, optional**  
-  3-by-3 lattice parameter in Angstrom required if vec_type == 'Cart'
+  3-by-3 lattice parameter in Angstrom required if vec_type == 'Cart'  
 **output_suffix: string, optional**  
-  Output suffix
-![GeTe_example](https://github.com/hzr-piggy/plot_vec_VESTA/tree/main/example/GeTe_vec.png)
+  Output suffix  
+  
+<img src="https://github.com/hzr-piggy/plot_vec_VESTA/blob/main/example/GeTe_vec.png" width="200">
