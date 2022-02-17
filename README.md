@@ -34,4 +34,4 @@ plot_vec(vesta_file, vec_file,
   3-by-3 lattice parameter in Angstrom required if vec_type == 'Cart'
 **output_suffix: string, optional**  
   Output suffix
-![GeTe_example](https://github.com/hzr-piggy/plot_vec_VESTA/example/GeTe_vec.png)
+![GeTe_example](https://github.com/hzr-piggy/plot_vec_VESTA/tree/main/example/GeTe_vec.png)
